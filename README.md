@@ -5,6 +5,6 @@
 [Neuroscience](https://youngmtool.github.io/neuroscience/README)  
 [Physics](https://youngmtool.github.io/physics/README)  
 [Biology](https://youngmtool.github.io/biology/README)  
-[immunology](https://youngmtool.github.io/neuroscience/README)  
+[Immunology](https://youngmtool.github.io/immunology/README)  
 [Mathematics](https://youngmtool.github.io/mathematics/README)  
 [Chemistry](https://youngmtool.github.io/chemistry/README)  
