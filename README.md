@@ -3,6 +3,8 @@
 [Practice and Practical Data Science and Machine Learning](https://youngmtool.github.io/pracdm/README)  
 [Mathematics](https://youngmtool.github.io/mathematics/README)  
 [C# .NET](https://youngmtool.github.io/csharpdotnet/README)  
+[Programming languages](https://youngmtool.github.io/plang/README)  
+[Web Technology](https://youngmtool.github.io/webtech/README)  
 [Blockchain](https://youngmtool.github.io/blockchain/README)  
 [Version Control System](https://youngmtool.github.io/vcs/README)  
 [Integrated Development Environment](https://youngmtool.github.io/ide/README)  
