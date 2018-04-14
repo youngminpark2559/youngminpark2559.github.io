@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 [Machine Learning](https://youngmtool.github.io/machinelearning/README)  
 [Practice and Practical Data Science and Machine Learning](https://youngmtool.github.io/pracdm/README)  
+[Practical Deep Learning](https://youngmtool.github.io/pracdl/README)  
 [Mathematics](https://youngmtool.github.io/mathematics/README)  
 [C# .NET](https://youngmtool.github.io/csharpdotnet/README)  
 [Programming Language](https://youngmtool.github.io/plang/README)  
