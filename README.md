@@ -7,6 +7,8 @@ Practice and Practical Data Science and Machine Learning
 <a href="https://youngmtool.github.io/pracdm/README.html">Go</a><br/>
 Practical Deep Learning 
 <a href="https://youngmtool.github.io/pracdl/README.html">Go</a><br/>
+Practical Reinforcement Learning 
+<a href="https://youngmtool.github.io/pracrl/README.html">Go</a><br/>
 Natural Language Processing 
 <a href="https://youngmtool.github.io/nlp/README.html">Go</a><br/>
 Mathematics 
