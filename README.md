@@ -10,8 +10,6 @@ Practical Reinforcement Learning
 Natural Language Processing 
 <a href="https://youngmtool.github.io/nlp/README.html">Go</a><br/>
 
-<br/>
-
 Programming Language 
 <a href="https://youngmtool.github.io/plang/README.html">Go</a><br/>
 C# .NET 
