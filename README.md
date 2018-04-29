@@ -1,6 +1,6 @@
 
 <br/><br/>
-Machine Learning Theory  
+Machine Learning Theory 
 <a href="https://youngmtool.github.io/mltheory/README.html">Go</a><br/>
 Practice and Practical Data Science and Machine Learning 
 <a href="https://youngmtool.github.io/pracdm/README.html">Go</a><br/>
