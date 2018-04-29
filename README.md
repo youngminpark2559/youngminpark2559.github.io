@@ -27,8 +27,6 @@ Integrated Development Environment
 Operating System 
 <a href="https://youngmtool.github.io/os/README.html">Go</a><br/>
 
-<br/>
-
 Physics 
 <a href="https://youngmtool.github.io/physics/README.html">Go</a><br/>
 Mathematics 
@@ -43,8 +41,6 @@ Medicine
 <a href="https://youngmtool.github.io/medicine/README.html">Go</a><br/>
 Chemistry 
 <a href="https://youngmtool.github.io/chemistry/README.html">Go</a><br/>
-
-<br/>
 
 My Application 
 <a href="https://youngmtool.github.io/myapp/README.html">Go</a><br/>
