@@ -1,21 +1,21 @@
-
 <br/><br/>
 Machine Learning Theory 
 <a href="https://youngmtool.github.io/mltheory/README.html">Go</a><br/>
-Practice and Practical Data Science and Machine Learning 
-<a href="https://youngmtool.github.io/pracdm/README.html">Go</a><br/>
 Practical Deep Learning 
+<a href="https://youngmtool.github.io/pracdm/README.html">Go</a><br/>
+Practical Data Science 
 <a href="https://youngmtool.github.io/pracdl/README.html">Go</a><br/>
 Practical Reinforcement Learning 
 <a href="https://youngmtool.github.io/pracrl/README.html">Go</a><br/>
 Natural Language Processing 
 <a href="https://youngmtool.github.io/nlp/README.html">Go</a><br/>
-Mathematics 
-<a href="https://youngmtool.github.io/mathematics/README.html">Go</a><br/>
-C# .NET 
-<a href="https://youngmtool.github.io/csharpdotnet/README.html">Go</a><br/>
+
+<br/>
+
 Programming Language 
 <a href="https://youngmtool.github.io/plang/README.html">Go</a><br/>
+C# .NET 
+<a href="https://youngmtool.github.io/csharpdotnet/README.html">Go</a><br/>
 Database 
 <a href="https://youngmtool.github.io/db/README.html">Go</a><br/>
 Web Technology 
@@ -28,8 +28,13 @@ Integrated Development Environment
 <a href="https://youngmtool.github.io/ide/README.html">Go</a><br/>
 Operating System 
 <a href="https://youngmtool.github.io/os/README.html">Go</a><br/>
+
+<br/>
+
 Physics 
 <a href="https://youngmtool.github.io/physics/README.html">Go</a><br/>
+Mathematics 
+<a href="https://youngmtool.github.io/mathematics/README.html">Go</a><br/>
 Neuroscience 
 <a href="https://youngmtool.github.io/neuroscience/README.html">Go</a><br/>
 Biology 
@@ -40,6 +45,9 @@ Medicine
 <a href="https://youngmtool.github.io/medicine/README.html">Go</a><br/>
 Chemistry 
 <a href="https://youngmtool.github.io/chemistry/README.html">Go</a><br/>
+
+<br/>
+
 My Application 
 <a href="https://youngmtool.github.io/myapp/README.html">Go</a><br/>
 Text Files 
