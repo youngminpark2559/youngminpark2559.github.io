@@ -1,4 +1,3 @@
-<br/>
 Machine Learning Theory 
 <a href="https://youngmtool.github.io/mltheory/README.html">Go</a><br/>
 Practical Machine Learning 
