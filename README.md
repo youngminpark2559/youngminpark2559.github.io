@@ -1,7 +1,5 @@
 Machine Learning Theory 
 <a href="https://youngmtool.github.io/mltheory/README.html">Go</a><br/>
-Practical Machine Learning 
-<a href="https://youngmtool.github.io/pracml/README.html">Go</a><br/>
 Practical Deep Learning 
 <a href="https://youngmtool.github.io/pracdl/README.html">Go</a><br/>
 Practical Data Science 
