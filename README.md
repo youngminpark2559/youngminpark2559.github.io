@@ -1,10 +1,12 @@
 <br/>
 Machine Learning Theory 
 <a href="https://youngmtool.github.io/mltheory/README.html">Go</a><br/>
+Practical Machine Learning 
+<a href="https://youngmtool.github.io/pracml/README.html">Go</a><br/>
 Practical Deep Learning 
-<a href="https://youngmtool.github.io/pracdm/README.html">Go</a><br/>
-Practical Data Science 
 <a href="https://youngmtool.github.io/pracdl/README.html">Go</a><br/>
+Practical Data Science 
+<a href="https://youngmtool.github.io/pracds/README.html">Go</a><br/>
 Practical Reinforcement Learning 
 <a href="https://youngmtool.github.io/pracrl/README.html">Go</a><br/>
 Natural Language Processing 
