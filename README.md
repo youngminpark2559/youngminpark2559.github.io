@@ -9,7 +9,7 @@ Practical Reinforcement Learning
 Natural Language Processing 
 <a href="https://youngmtool.github.io/nlp/README.html">Go</a><br/>
 Computer Vision 
-<a href="https://youngmtool.github.io/cv/README.html">Go</a><br/> 
+<a href="https://youngmtool.github.io/opencv/README.html">Go</a><br/> 
 
 Programming Language 
 <a href="https://youngmtool.github.io/plang/README.html">Go</a><br/>
