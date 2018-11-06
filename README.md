@@ -45,7 +45,3 @@ Chemistry
 
 My Application 
 <a href="https://youngminpark2559.github.io/myapp/README.html">Go</a><br/>
-Text Files 
-<a href="https://youngminpark2559.github.io/text files/README.html">Go</a><br/>
-Skill 
-<a href="https://youngminpark2559.github.io/skill/README.html">Go</a><br/>
