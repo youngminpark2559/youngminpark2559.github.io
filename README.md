@@ -46,6 +46,6 @@ Chemistry
 My Application 
 <a href="https://youngminpark2559.github.io/myapp/README.html">Go</a><br/>
 Kaggle 
-<a href="https://youngminpark2559.github.io/kaggle/README.html">Go</a><br/>
+<a href="https://youngminpark2559.github.io/kaggle/READFILE.html">Go</a><br/>
 Paper implementation 
 <a href="https://youngminpark2559.github.io/paper_i/README.html">Go</a><br/>
