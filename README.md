@@ -49,3 +49,5 @@ Kaggle
 <a href="https://youngminpark2559.github.io/kaggle/README.html">Go</a><br/>
 Paper implementation 
 <a href="https://youngminpark2559.github.io/paper_i/README.html">Go</a><br/>
+Update history 
+<a href="https://youngminpark2559.github.io/youngminpark2559.github.io/update_hi.html">Go</a><br/>
