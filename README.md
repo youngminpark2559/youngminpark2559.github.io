@@ -13,6 +13,8 @@ Computer Vision
 
 Programming Language 
 <a href="https://youngminpark2559.github.io/plang/README.html">Go</a><br/>
+Environment setup  
+<a href="https://youngminpark2559.github.io/env_setup/REAMDM.html">Go</a><br/>
 C# .NET 
 <a href="https://youngminpark2559.github.io/csharpdotnet/README.html">Go</a><br/>
 Database 
