@@ -1,55 +1,29 @@
-Machine Learning Theory 
-<a href="https://youngminpark2559.github.io/mltheory/README.html">Go</a><br/>
-Practical Deep Learning 
-<a href="https://youngminpark2559.github.io/pracdl/README.html">Go</a><br/>
-Practical Data Science 
-<a href="https://youngminpark2559.github.io/pracds/README.html">Go</a><br/>
-Practical Reinforcement Learning 
-<a href="https://youngminpark2559.github.io/pracrl/README.html">Go</a><br/>
-Natural Language Processing 
-<a href="https://youngminpark2559.github.io/nlp/README.html">Go</a><br/>
-Computer Vision 
-<a href="https://youngminpark2559.github.io/opencv/README.html">Go</a><br/> 
+<a href="https://youngminpark2559.github.io/mltheory/README.html">Machine Learning Theory</a><br/>
+<a href="https://youngminpark2559.github.io/pracdl/README.html">Practical Deep Learning</a><br/>
+<a href="https://youngminpark2559.github.io/pracds/README.html">Practical Data Science</a><br/>
+<a href="https://youngminpark2559.github.io/pracrl/README.html">Practical Reinforcement Learning</a><br/>
+<a href="https://youngminpark2559.github.io/nlp/README.html">Natural Language Processing</a><br/>
+<a href="https://youngminpark2559.github.io/opencv/README.html">Computer Vision</a><br/> 
 
-Programming Language 
-<a href="https://youngminpark2559.github.io/plang/README.html">Go</a><br/>
-Environment setup 
-<a href="https://youngminpark2559.github.io/env_setup/REAMDM.html">Go</a><br/>
-C# .NET 
-<a href="https://youngminpark2559.github.io/csharpdotnet/README.html">Go</a><br/>
-Database 
-<a href="https://youngminpark2559.github.io/db/README.html">Go</a><br/>
-Web Technology 
-<a href="https://youngminpark2559.github.io/webtech/README.html">Go</a><br/>
-Blockchain 
-<a href="https://youngminpark2559.github.io/blockchain/README.html">Go</a><br/>
-Version Control System 
-<a href="https://youngminpark2559.github.io/vcs/README.html">Go</a><br/>
-Integrated Development Environment 
-<a href="https://youngminpark2559.github.io/ide/README.html">Go</a><br/>
-Operating System 
-<a href="https://youngminpark2559.github.io/os/README.html">Go</a><br/>
+<a href="https://youngminpark2559.github.io/plang/README.html">Programming Language</a><br/>
+<a href="https://youngminpark2559.github.io/env_setup/REAMDM.html">Environment setup</a><br/>
+<a href="https://youngminpark2559.github.io/csharpdotnet/README.html">C# .NET</a><br/>
+<a href="https://youngminpark2559.github.io/db/README.html">Database</a><br/>
+<a href="https://youngminpark2559.github.io/webtech/README.html">Web Technology</a><br/>
+<a href="https://youngminpark2559.github.io/blockchain/README.html">Blockchain</a><br/>
+<a href="https://youngminpark2559.github.io/vcs/README.html">Version Control System</a><br/>
+<a href="https://youngminpark2559.github.io/ide/README.html">Integrated Development Environment</a><br/>
+<a href="https://youngminpark2559.github.io/os/README.html">Operating System</a><br/>
 
-Physics 
-<a href="https://youngminpark2559.github.io/physics/README.html">Go</a><br/>
-Mathematics 
-<a href="https://youngminpark2559.github.io/mathematics/README.html">Go</a><br/>
-Neuroscience 
-<a href="https://youngminpark2559.github.io/neuroscience/README.html">Go</a><br/>
-Biology 
-<a href="https://youngminpark2559.github.io/biology/README.html">Go</a><br/>
-Immunology 
-<a href="https://youngminpark2559.github.io/immunology/README.html">Go</a><br/>
-Medicine 
-<a href="https://youngminpark2559.github.io/medicine/README.html">Go</a><br/>
-Chemistry 
-<a href="https://youngminpark2559.github.io/chemistry/README.html">Go</a><br/>
+<a href="https://youngminpark2559.github.io/physics/README.html">Physics</a><br/>
+<a href="https://youngminpark2559.github.io/mathematics/README.html">Mathematics</a><br/>
+<a href="https://youngminpark2559.github.io/neuroscience/README.html">Neuroscience</a><br/>
+<a href="https://youngminpark2559.github.io/biology/README.html">Biology</a><br/>
+<a href="https://youngminpark2559.github.io/immunology/README.html">Immunology</a><br/>
+<a href="https://youngminpark2559.github.io/medicine/README.html">Medicine</a><br/>
+<a href="https://youngminpark2559.github.io/chemistry/README.html">Chemistry</a><br/>
 
-My Application 
-<a href="https://youngminpark2559.github.io/myapp/README.html">Go</a><br/>
-Kaggle 
-<a href="https://youngminpark2559.github.io/kaggle/README.html">Go</a><br/>
-Paper implementation 
-<a href="https://youngminpark2559.github.io/ml_cv_p/README.html">Go</a><br/>
-Update history 
-<a href="https://youngminpark2559.github.io/youngminpark2559.github.io/update_hi.html">Go</a><br/>
+<a href="https://youngminpark2559.github.io/myapp/README.html">My Application</a><br/>
+<a href="https://youngminpark2559.github.io/kaggle/README.html">Kaggle</a><br/>
+<a href="https://youngminpark2559.github.io/ml_cv_p/README.html">Paper implementation</a><br/>
+<a href="https://youngminpark2559.github.io/youngminpark2559.github.io/update_hi.html">Update history</a><br/>
