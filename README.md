@@ -6,7 +6,7 @@
 <a href="https://youngminpark2559.github.io/opencv/README.html">Computer Vision</a><br/> 
 
 <a href="https://youngminpark2559.github.io/plang/README.html">Programming Language</a><br/>
-<a href="https://youngminpark2559.github.io/env_setup/REAMDM.html">Environment setup</a><br/>
+<a href="https://youngminpark2559.github.io/env_setup/REAMDM2.html">Environment setup</a><br/>
 <a href="https://youngminpark2559.github.io/csharpdotnet/README.html">C# .NET</a><br/>
 <a href="https://youngminpark2559.github.io/db/README.html">Database</a><br/>
 <a href="https://youngminpark2559.github.io/webtech/README.html">Web Technology</a><br/>
