@@ -27,4 +27,3 @@
 <a href="https://youngminpark2559.github.io/myapp/README.html">My Application</a><br/>
 <a href="https://youngminpark2559.github.io/kaggle/README.html">Kaggle</a><br/>
 <a href="https://youngminpark2559.github.io/ml_cv_p/README.html">Paper implementation</a><br/>
-<a href="https://youngminpark2559.github.io/youngminpark2559.github.io/update_hi.html">Update history</a><br/>
