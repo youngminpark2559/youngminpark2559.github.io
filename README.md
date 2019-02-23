@@ -5,6 +5,7 @@
 <a href="https://youngminpark2559.github.io/nlp/README.html">Natural Language Processing</a><br/>
 <a href="https://youngminpark2559.github.io/opencv/README.html">Computer Vision</a><br/> 
 
+<a href="https://youngminpark2559.github.io/gen_comp_sci/README.html">General Computer Science</a><br/>
 <a href="https://youngminpark2559.github.io/plang/README.html">Programming Language</a><br/>
 <a href="https://youngminpark2559.github.io/env_setup/README.html">Environment setup</a><br/>
 <a href="https://youngminpark2559.github.io/csharpdotnet/README.html">C# .NET</a><br/>
