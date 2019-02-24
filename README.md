@@ -7,7 +7,8 @@
 
 <a href="https://youngminpark2559.github.io/gen_comp_sci/README.html">General Computer Science</a><br/>
 <a href="https://youngminpark2559.github.io/plang/README.html">Programming Language</a><br/>
-<a href="https://youngminpark2559.github.io/env_setup/README.html">Environment setup</a><br/>
+<a href="https://youngminpark2559.github.io/shell_script/README.html">Shell Script</a><br/>
+<a href="https://youngminpark2559.github.io/env_setup/README.html">Environment Setup</a><br/>
 <a href="https://youngminpark2559.github.io/csharpdotnet/README.html">C# .NET</a><br/>
 <a href="https://youngminpark2559.github.io/db/README.html">Database</a><br/>
 <a href="https://youngminpark2559.github.io/webtech/README.html">Web Technology</a><br/>
@@ -26,4 +27,4 @@
 
 <a href="https://youngminpark2559.github.io/myapp/README.html">My Application</a><br/>
 <a href="https://youngminpark2559.github.io/kaggle/README.html">Kaggle</a><br/>
-<a href="https://youngminpark2559.github.io/ml_cv_p/README.html">Paper implementation</a><br/>
+<a href="https://youngminpark2559.github.io/ml_cv_p/README.html">Paper Implementation</a><br/>
