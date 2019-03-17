@@ -26,6 +26,6 @@
 <a href="https://youngminpark2559.github.io/chemistry/README.html">Chemistry</a><br/>
 
 <a href="https://youngminpark2559.github.io/myapp/README.html">My Application</a><br/>
-<a href="https://github.com/youngminpark2559/bio_code/blob/master/README.html">Biology and neuroscience mechanisms into codes</a><br/>
+<a href="https://youngminpark2559.github.io/bio_code/README.html">Biology and neuroscience mechanisms into codes</a><br/>
 <a href="https://youngminpark2559.github.io/kaggle/README.html">Kaggle</a><br/>
 <a href="https://youngminpark2559.github.io/ml_cv_p/README.html">Paper Implementation</a><br/>
