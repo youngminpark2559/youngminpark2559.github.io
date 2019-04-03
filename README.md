@@ -1,5 +1,5 @@
 <a href="https://youngminpark2559.github.io/mltheory/README.html">Machine Learning Theory</a><br/>
-<a href="https://youngminpark2559.github.io/pracdl/README.html">Practical Deep Learning</a><br/>
+<a href="https://youngminpark2559.github.io/prac_ml/README.html">Practical Machine Learning</a><br/>
 <a href="https://youngminpark2559.github.io/pracds/README.html">Practical Data Science</a><br/>
 <a href="https://youngminpark2559.github.io/pracrl/README.html">Practical Reinforcement Learning</a><br/>
 <a href="https://youngminpark2559.github.io/nlp/README.html">Natural Language Processing</a><br/>
