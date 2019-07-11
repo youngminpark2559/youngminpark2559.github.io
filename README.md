@@ -2,6 +2,7 @@
 <a href="https://youngminpark2559.github.io/study_ml_paper/README.html">Machine Learning Papers</a><br/>
 <a href="https://youngminpark2559.github.io/prac_ml/README.html">Practical Machine Learning</a><br/>
 <a href="https://youngminpark2559.github.io/pracds/README.html">Practical Data Science</a><br/>
+<a href="https://youngminpark2559.github.io/statistics_analysis/README.html">Statistics and Statistical analysis</a><br/>
 <a href="https://youngminpark2559.github.io/pracrl/README.html">Reinforcement Learning</a><br/>
 <a href="https://youngminpark2559.github.io/nlp/README.html">Natural Language Processing</a><br/>
 <a href="https://youngminpark2559.github.io/opencv/README.html">Computer Vision</a><br/> 
