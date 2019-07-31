@@ -9,6 +9,7 @@
 
 <a href="https://youngminpark2559.github.io/gen_comp_sci/README.html">General Computer Science</a><br/>
 <a href="https://youngminpark2559.github.io/plang/README.html">Programming Language</a><br/>
+<a href="https://youngminpark2559.github.io/algorithm/README.html">Algorithm</a><br/>
 <a href="https://youngminpark2559.github.io/shell_script/README.html">Shell Script</a><br/>
 <a href="https://youngminpark2559.github.io/env_setup/README.html">Environment Setup</a><br/>
 <a href="https://youngminpark2559.github.io/csharpdotnet/README.html">C# .NET</a><br/>
